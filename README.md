@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Proffy - Web 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/eric\_\_rocha" target="_blank">
-    <img alt="Twitter: eric\_\_rocha" src="https://img.shields.io/twitter/follow/eric\_\_rocha.svg?style=social" />
+  <a href="https://twitter.com/Eric__Rocha" target="_blank">
+    <img alt="Twitter: Eric__Rocha" src="https://img.shields.io/twitter/follow/Eric__Rocha.svg?style=social" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@ yarn start
 👤 **Eric Rocha**
 
 * Website: https://ericrocha.dev/
-* Twitter: [@eric\_\_rocha](https://twitter.com/eric\_\_rocha)
+* Twitter: [@Eric__Rocha](https://twitter.com/Eric__Rocha)
 * Github: [@ericrocha97](https://github.com/ericrocha97)
 * LinkedIn: [@eric-rocha1997](https://linkedin.com/in/eric-rocha1997)
 
